@@ -2,18 +2,7 @@
 This repository will contain the source code for our paper. Our code will be made public when the manuscript is accepted.
 
 ## Requirements
-The code has been tested with PyTorch 1.7 and Cuda 10.2
-```Shell
-conda env create -f environment.yaml
-conda activate raftstereo
-```
-and with PyTorch 1.12.0 and Cuda 11.3
-```Shell
-conda env create -f environment_cuda11.yaml
-conda activate raftstereo
-```
-
-
+The code has been tested with  PyTorch 1.12.0 and Cuda 11.3
 
 ## Required Data
 To evaluate/train RAFT-stereo, you will need to download the required datasets. 
