@@ -7,7 +7,7 @@ The code has been tested with PyTorch 1.7 and Cuda 10.2
 conda env create -f environment.yaml
 conda activate raftstereo
 ```
-and with PyTorch 1.11 and Cuda 11.3
+and with PyTorch 1.12.0 and Cuda 11.3
 ```Shell
 conda env create -f environment_cuda11.yaml
 conda activate raftstereo
