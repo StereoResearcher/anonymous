@@ -20,10 +20,6 @@ To evaluate/train RAFT-stereo, you will need to download the required datasets.
 * [Sceneflow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html#:~:text=on%20Academic%20Torrents-,FlyingThings3D,-Driving) (Includes FlyingThings3D, Driving & Monkaa)
 * [Middlebury](https://vision.middlebury.edu/stereo/data/)
 
-To download the ETH3D and Middlebury test datasets for the [demos](#demos), run 
-```Shell
-bash download_datasets.sh
-```
 
 By default `stereo_datasets.py` will search for the datasets in these locations. You can create symbolic links to wherever the datasets were downloaded in the `datasets` folder
 
