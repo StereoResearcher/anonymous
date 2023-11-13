@@ -5,7 +5,7 @@ This repository will contain the source code for our paper. Our code will be mad
 The code has been tested with  PyTorch 1.12.0 and Cuda 11.3
 
 ## Required Data
-To evaluate/train RAFT-stereo, you will need to download the required datasets. 
+To evaluate/train SAMTormer, you will need to download the required datasets. 
 * [Sceneflow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html#:~:text=on%20Academic%20Torrents-,FlyingThings3D,-Driving) (Includes FlyingThings3D, Driving & Monkaa)
 * [Middlebury](https://vision.middlebury.edu/stereo/data/)
 
